@@ -8,7 +8,7 @@
 ## Step 1
 Locate the jack points on the car. It should be along the inside of the frame next to the tire you want to change. Once located, insert it underneath the car and start to raise the jack by either pumping the lever or by twisting it depending on the jack.
 ## Step 2
-Once the car tire is off of the ground, you can grab your wrench and loosen all of the lugbolts. The best way to do this is in a star shaped pattern. This is so the tire does not tilt in a direction and stays even through out removal. Once all bolts are loosened, you can remove them in the same order you loosened them. 
+Once the car tire is off of the ground, you can grab your wrench and loosen all of the lugbolts. The best way to do this is in a star shaped pattern. This is so the tire stays even throughout removal. Once all bolts are loosened, you can remove them in the same order you loosened them. 
 ## Step 3
 Remove the tire and replace it with the new desired tire. Be careful not to smash any body parts as the tire can be quite heavy.
 ## Step 4
